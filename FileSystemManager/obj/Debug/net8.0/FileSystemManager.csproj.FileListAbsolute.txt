@@ -1,0 +1,11 @@
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/obj/Debug/net8.0/FileSystemManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/obj/Debug/net8.0/FileSystemManager.AssemblyInfoInputs.cache
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/obj/Debug/net8.0/FileSystemManager.AssemblyInfo.cs
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/obj/Debug/net8.0/FileSystemManager.csproj.CoreCompileInputs.cache
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/bin/Debug/net8.0/FileSystemManager.deps.json
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/bin/Debug/net8.0/FileSystemManager.dll
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/bin/Debug/net8.0/FileSystemManager.pdb
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/obj/Debug/net8.0/FileSystemManager.dll
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/obj/Debug/net8.0/refint/FileSystemManager.dll
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/obj/Debug/net8.0/FileSystemManager.pdb
+/Users/mibrgmv/RiderProjects/FileSystemManager/FileSystemManager/obj/Debug/net8.0/ref/FileSystemManager.dll
